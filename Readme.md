@@ -19,6 +19,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=800&pause=100&color=FF003C&background=00000000&center=true&vCenter=true&width=700&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&duration=1100&pause=250&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Encrypted+tunnel+established;%5BSYS%5D+Destination+locked+%E2%86%92+startupgaming;%5BSYS%5D+Transfer+protocol%3A+ACTIVE;%5BSYS%5D+Signal+acquired.+Execute+now."/>
+</p>
+
 ```
   ██╗    ██╗ █████╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗ 
   ██║    ██║██╔══██╗██╔══██╗████╗  ██║██║████╗  ██║██╔════╝ 
