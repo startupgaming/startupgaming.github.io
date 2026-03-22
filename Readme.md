@@ -16,6 +16,10 @@
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&duration=1100&pause=250&color=FF0000&background=00000000&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Scanning+network+nodes...;%5BSYS%5D+Current+node%3A+COMPROMISED;%5BSYS%5D+Rerouting+signal+path...;%5BWRN%5D+This+node+is+INACTIVE;%5BWRN%5D+DO+NOT+STAY+HERE;%5BSYS%5D+Redirecting+in+3...+2...+1..."/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=800&pause=100&color=FF003C&background=00000000&center=true&vCenter=true&width=700&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88"/>
 </p>
 
