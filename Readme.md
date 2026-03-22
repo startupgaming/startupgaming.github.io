@@ -5,22 +5,25 @@
 <!-- ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║       ██║     ██║  ██║╚██████╔╝   ██║   ╚██████╔╝╚██████╗╚██████╔╝███████╗-->
 <!--  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝       ╚═╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝-->
 
+<!-- ═══════════════════ HEADER ═══════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:003300,60:001a00,100:0d0d0d&height=280&section=header&text=%5B%20S%20T%20A%20R%20T%20U%20P%20G%20A%20M%20I%20N%20G%20%5D&fontColor=00ff41&fontSize=38&animation=fadeIn&fontAlignY=40&desc=◈%20NODE%20RELOCATED%20◈%20SIGNAL%20REROUTED%20◈%20STAND%20BY%20◈&descSize=14&descAlignY=65&descAlign=50"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=1200&pause=300&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=%5BSYS%5D+Scanning+network+nodes...;%5BSYS%5D+Current+node%3A+COMPROMISED;%5BSYS%5D+Rerouting+signal+path...;%5BSYS%5D+Encrypted+tunnel+established;%5BSYS%5D+Destination+locked+%E2%86%92+startupgaming;%5BSYS%5D+Transfer+protocol%3A+ACTIVE;%5BWRN%5D+DO+NOT+STAY+HERE;%5BSYS%5D+Redirecting+in+3...+2...+1..."/>
-</p>
-
----
-
+<!-- ═══════════════════ DUAL COLOR TYPING ═══════════════════ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&duration=1100&pause=250&color=FF0000&background=00000000&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Scanning+network+nodes...;%5BSYS%5D+Current+node%3A+COMPROMISED;%5BSYS%5D+Rerouting+signal+path...;%5BWRN%5D+This+node+is+INACTIVE;%5BWRN%5D+DO+NOT+STAY+HERE;%5BSYS%5D+Redirecting+in+3...+2...+1..."/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=800&pause=100&color=FF003C&background=00000000&center=true&vCenter=true&width=700&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&duration=1100&pause=250&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Encrypted+tunnel+established;%5BSYS%5D+Destination+locked+%E2%86%92+startupgaming;%5BSYS%5D+Transfer+protocol%3A+ACTIVE;%5BSYS%5D+Signal+acquired.+Execute+now."/>
+</p>
+
+---
+
+<!-- ═══════════════════ RED SCAN LINE ═══════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=600&pause=80&color=FF003C&background=00000000&center=true&vCenter=true&width=700&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88"/>
 </p>
 
 ```
