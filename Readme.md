@@ -180,7 +180,7 @@ ghost.execute()
   │                                                             │
   │   THIS NODE:          ████████████████░░░░  INACTIVE        │
   │   STARTUPGAMING:      ████████████████████  MAXIMUM         │
-  │   SIGNAL STRENGTH:    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ PEAK            │
+  │   SIGNAL STRENGTH:    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ PEAK             │
   │   GHOST PROTOCOL:     ARMED AND ACTIVE                      │
   │                                                             │
   │   ► DO NOT LINGER. THE REAL OPERATION IS ELSEWHERE.         │
