@@ -47,7 +47,7 @@
 <!-- 🔥 ULTRA GLOW -->
 
 <p align="center">
-  <a href="https://github.com/StartupTrail">
+  <a href="https://startupgaming.github.io">
     <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&lines=ACCESS+NODE:+StartupTrail;INITIATING+REDIRECT...;CLICK+TO+ENTER"/>
   </a>
 </p>
