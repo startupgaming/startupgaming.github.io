@@ -39,7 +39,7 @@
 ```diff
 - THIS ACCOUNT IS INACTIVE
 + ALL PROJECTS MOVED
-! GO TO: https://github.com/StartupTrail
+! GO TO: https://startupgaming.github.io
 ```
 
 ---
