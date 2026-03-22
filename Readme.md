@@ -63,7 +63,7 @@
 <!-- LOADING -->
 
 <p align="center">
-  <a href="https://github.com/StartupTrail">
+  <a href="https://startupgaming.github.io">
     <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400"/>
   </a>
 </p>
